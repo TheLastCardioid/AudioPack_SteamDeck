@@ -1,0 +1,10 @@
+{
+  "name": "Terraforming Mars",
+  "description": "From the Terraforming Mars digital adaptation. Soundtrack is owned by FryxGames.",
+  "author": "TheLastCardioid",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
